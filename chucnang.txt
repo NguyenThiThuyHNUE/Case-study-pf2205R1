@@ -1,0 +1,7 @@
+Ứng dụng sức khoẻ
+Chức năng: 
+- Đăng nhập
+- Đăng xuất
+- Nhập thông tin chiều cao, cân nặng
+- Tính chỉ số BMI
+.....
